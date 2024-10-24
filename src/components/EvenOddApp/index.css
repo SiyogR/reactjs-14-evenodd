@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-size: cover;
+  background-color: #ff6e7f;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
+
+.style {
+  color: #334155;
+  font-size: 20px;
+  font-weight: 300;
+}
